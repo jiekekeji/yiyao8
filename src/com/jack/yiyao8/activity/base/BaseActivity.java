@@ -1,4 +1,4 @@
-package com.jack.yiyao8.activity;
+package com.jack.yiyao8.activity.base;
 
 import android.app.Activity;
 

@@ -5,4 +5,10 @@ package com.jack.yiyao8.constant;
  */
 public class UrlConstant{
 
+	/**
+	 * 主机地址
+	 */
+	public static final String HOST_URL="http://api.yi18.net";
+	
+	
 }
